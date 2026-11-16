@@ -1,0 +1,307 @@
+{
+  "title": "MISI BAHASA",
+  "version": "bahagian-a-t2-v1",
+  "passage": "Kelab Alam Sekitar SMK Seri Murni melaksanakan Program Bekas Sendiri selama empat minggu. Program itu bertujuan mengurangkan penggunaan bekas makanan pakai buang di kantin. Murid digalakkan membawa bekas makanan dan botol air dari rumah.\nPada minggu pertama, hanya 60 orang murid menyertai program tersebut. Selepas penerangan diberikan semasa perhimpunan dan poster dipamerkan, jumlah peserta meningkat kepada 150 orang pada minggu keempat. Pengawas merekodkan penyertaan setiap kelas.\nNamun, beberapa orang murid sering terlupa membawa bekas. Kelab menyediakan sudut pinjaman bekas yang boleh digunakan semula. Bekas pinjaman perlu dibasuh dan dipulangkan selepas digunakan. Pihak sekolah bercadang meneruskan program itu kerana jumlah sampah di kantin berkurang.",
+  "questions": [
+    {
+      "topic": "Kata sendi nama",
+      "stem": "Hadiah ini diterima oleh Aina ______ kakaknya.",
+      "options": [
+        "dari",
+        "daripada",
+        "kepada",
+        "pada"
+      ],
+      "answer": 1,
+      "why": "Kata sendi nama “daripada” digunakan untuk menyatakan sumber yang berupa manusia, iaitu kakaknya."
+    },
+    {
+      "topic": "Kata sendi nama",
+      "stem": "Mesyuarat itu akan bermula ______ pukul tiga petang.",
+      "options": [
+        "di",
+        "ke",
+        "dari",
+        "pada"
+      ],
+      "answer": 3,
+      "why": "“Pada” digunakan di hadapan keterangan waktu, seperti pukul tiga petang."
+    },
+    {
+      "topic": "Kata hubung",
+      "stem": "Farid membawa payung ______ langit kelihatan mendung.",
+      "options": [
+        "kerana",
+        "supaya",
+        "walaupun",
+        "sambil"
+      ],
+      "answer": 0,
+      "why": "“Kerana” menghubungkan tindakan dengan sebabnya. Langit mendung menjadi sebab Farid membawa payung."
+    },
+    {
+      "topic": "Kata pemeri",
+      "stem": "Puan Salmah ______ guru Bahasa Melayu di sekolah itu.",
+      "options": [
+        "adalah",
+        "adanya",
+        "ialah",
+        "ianya"
+      ],
+      "answer": 2,
+      "why": "“Ialah” hadir di hadapan frasa nama “guru Bahasa Melayu di sekolah itu”."
+    },
+    {
+      "topic": "Kata nafi",
+      "stem": "Beg yang berwarna merah itu ______ milik saya.",
+      "options": [
+        "bukan",
+        "tidak",
+        "jangan",
+        "belum"
+      ],
+      "answer": 0,
+      "why": "“Bukan” menafikan frasa nama “milik saya”."
+    },
+    {
+      "topic": "Penjodoh bilangan",
+      "stem": "Ayah membeli se______ pisang di gerai buah-buahan.",
+      "options": [
+        "ikat",
+        "ulas",
+        "biji",
+        "sikat"
+      ],
+      "answer": 3,
+      "why": "“Sikat” ialah penjodoh bilangan untuk pisang yang masih melekat pada satu tangkai kecil."
+    },
+    {
+      "topic": "Imbuhan",
+      "stem": "Pilih kata berimbuhan yang tepat.\nPekerja itu sedang ______ jalan yang berlubang.",
+      "options": [
+        "membaik",
+        "membaiki",
+        "membaikkan",
+        "berbaik"
+      ],
+      "answer": 1,
+      "why": "Kata kerja transitif “membaiki” bermaksud menjadikan sesuatu yang rosak baik semula. Objeknya ialah jalan."
+    },
+    {
+      "topic": "Kata ganda",
+      "stem": "Pilih ayat yang betul.",
+      "options": [
+        "Semua murid-murid sedang beratur.",
+        "Para pelajar-pelajar masuk ke dewan.",
+        "Murid-murid itu sedang membaca buku.",
+        "Setiap peserta-peserta menerima sijil."
+      ],
+      "answer": 2,
+      "why": "“Murid-murid” menyatakan jamak dengan betul. Kata “semua”, “para” dan “setiap” dalam pilihan lain tidak perlu diikuti penggandaan kata nama tersebut."
+    },
+    {
+      "topic": "Ejaan",
+      "stem": "Pilih perkataan yang dieja dengan betul.",
+      "options": [
+        "tanggung jawab",
+        "kerjasama",
+        "aturcara",
+        "tengahari"
+      ],
+      "answer": 1,
+      "why": "Ejaan yang betul ialah “kerjasama”. Bentuk yang betul bagi pilihan lain ialah “tanggungjawab”, “atur cara” dan “tengah hari”."
+    },
+    {
+      "topic": "Kosa kata",
+      "stem": "Pilih perkataan yang paling sesuai.\nMurid perlu ______ peraturan makmal demi keselamatan bersama.",
+      "options": [
+        "mematuhi",
+        "menuruti kepada",
+        "mengikuti kepada",
+        "mentaati akan"
+      ],
+      "answer": 0,
+      "why": "“Mematuhi peraturan” ialah frasa yang gramatis. Pilihan lain menambahkan kata sendi yang tidak diperlukan."
+    },
+    {
+      "topic": "Kesalahan bahasa",
+      "stem": "Pilih pembetulan terbaik bagi ayat “Buku itu saya telah baca semalam.”",
+      "options": [
+        "Saya buku itu telah baca semalam.",
+        "Buku itu telah baca saya semalam.",
+        "Buku itu telah dibaca oleh saya semalam.",
+        "Buku itu telah saya baca semalam."
+      ],
+      "answer": 3,
+      "why": "Dalam ayat pasif diri pertama, kata bantu mendahului kata ganti nama diri. Susunannya ialah “telah saya baca”."
+    },
+    {
+      "topic": "Ayat gramatis",
+      "stem": "Pilih ayat yang gramatis.",
+      "options": [
+        "Mereka saling bantu-membantu.",
+        "Hadiah itu diberikan kepada ibu.",
+        "Dia lebih tinggi dari abangnya.",
+        "Kami membincangkan tentang masalah itu."
+      ],
+      "answer": 1,
+      "why": "“Kepada” tepat untuk penerima, iaitu ibu. Bentuk lain yang betul ialah “saling membantu”, “lebih tinggi daripada” dan “membincangkan masalah”."
+    },
+    {
+      "topic": "Kata tanya",
+      "stem": "Pilih kata tanya yang sesuai berdasarkan jawapan yang diberikan.\nSoalan: “______ pertandingan pidato itu akan diadakan?”\nJawapan: “Pertandingan itu akan diadakan pada hari Sabtu.”",
+      "options": [
+        "Siapakah",
+        "Mengapakah",
+        "Bilakah",
+        "Bagaimanakah"
+      ],
+      "answer": 2,
+      "why": "“Bilakah” digunakan untuk menanyakan waktu. Jawapan “pada hari Sabtu” menunjukkan waktu pertandingan diadakan."
+    },
+    {
+      "topic": "Kata perintah",
+      "stem": "Pilih kata perintah yang sesuai untuk menyatakan larangan.\n“______ pijak rumput di kawasan ini.”",
+      "options": [
+        "Jangan",
+        "Sila",
+        "Jemput",
+        "Harap"
+      ],
+      "answer": 0,
+      "why": "“Jangan” ialah kata perintah yang menyatakan larangan. “Sila” dan “jemput” menyatakan permintaan atau pelawaan, manakala “harap” menyatakan harapan."
+    },
+    {
+      "topic": "Kata adjektif",
+      "stem": "Pilih kata adjektif dalam ayat ini.\n“Air sungai itu sangat jernih.”",
+      "options": [
+        "air",
+        "sungai",
+        "sangat",
+        "jernih"
+      ],
+      "answer": 3,
+      "why": "“Jernih” menerangkan sifat air. “Sangat” ialah kata penguat."
+    },
+    {
+      "topic": "Subjek",
+      "stem": "Kenal pasti subjek lengkap.\n“Murid perempuan yang memakai cermin mata itu sedang membaca novel.”",
+      "options": [
+        "Murid perempuan",
+        "Murid perempuan yang memakai cermin mata itu",
+        "sedang membaca novel",
+        "yang memakai cermin mata itu"
+      ],
+      "answer": 1,
+      "why": "Subjek ialah seluruh frasa nama “Murid perempuan yang memakai cermin mata itu”. Klausa “yang memakai cermin mata itu” menerangkan murid tersebut."
+    },
+    {
+      "topic": "Predikat",
+      "stem": "Kenal pasti predikat lengkap.\n“Adik saya menyiram pokok bunga di halaman rumah.”",
+      "options": [
+        "Adik saya",
+        "pokok bunga",
+        "menyiram pokok bunga di halaman rumah",
+        "di halaman rumah"
+      ],
+      "answer": 2,
+      "why": "Predikat menerangkan perbuatan subjek. Predikat lengkap merangkumi kata kerja, objek dan keterangan tempat."
+    },
+    {
+      "topic": "Ayat songsang",
+      "stem": "Apakah subjek dalam ayat songsang ini?\n“Sangat luas padang sekolah kami.”",
+      "options": [
+        "Sangat luas",
+        "luas padang",
+        "sekolah kami",
+        "padang sekolah kami"
+      ],
+      "answer": 3,
+      "why": "Susunan biasa ialah “Padang sekolah kami sangat luas.” Subjeknya ialah “padang sekolah kami”."
+    },
+    {
+      "topic": "Subjek dan predikat",
+      "stem": "Pilih pemisahan subjek dan predikat yang tepat bagi ayat “Rumah baharu di hujung jalan itu milik datuk saya.”",
+      "options": [
+        "Rumah baharu di hujung jalan itu | milik datuk saya",
+        "Rumah baharu | di hujung jalan itu milik datuk saya",
+        "Rumah | baharu di hujung jalan itu milik datuk saya",
+        "Rumah baharu di hujung jalan | itu milik datuk saya"
+      ],
+      "answer": 0,
+      "why": "Seluruh frasa “Rumah baharu di hujung jalan itu” ialah subjek. “Milik datuk saya” ialah predikat."
+    },
+    {
+      "topic": "Pola ayat",
+      "stem": "Apakah pola ayat “Kakak saya seorang jururawat”?",
+      "options": [
+        "Frasa Nama + Frasa Kerja",
+        "Frasa Nama + Frasa Nama",
+        "Frasa Nama + Frasa Adjektif",
+        "Frasa Nama + Frasa Sendi Nama"
+      ],
+      "answer": 1,
+      "why": "“Kakak saya” dan “seorang jururawat” kedua-duanya frasa nama. Polanya ialah FN + FN."
+    },
+    {
+      "topic": "Pemahaman",
+      "stem": "Apakah tujuan utama Program Bekas Sendiri?",
+      "options": [
+        "Menambah jualan makanan di kantin",
+        "Menggantikan semua pengawas sekolah",
+        "Mengurangkan penggunaan bekas makanan pakai buang",
+        "Mengadakan pertandingan memasak"
+      ],
+      "answer": 2,
+      "why": "Tujuan program dinyatakan secara langsung dalam perenggan pertama."
+    },
+    {
+      "topic": "Pemahaman",
+      "stem": "Berapakah pertambahan bilangan peserta dari minggu pertama hingga minggu keempat?",
+      "options": [
+        "90 orang",
+        "60 orang",
+        "150 orang",
+        "210 orang"
+      ],
+      "answer": 0,
+      "why": "Pertambahan peserta ialah 150 − 60 = 90 orang."
+    },
+    {
+      "topic": "Pemahaman",
+      "stem": "Frasa “boleh digunakan semula” dalam petikan membawa maksud ______.",
+      "options": [
+        "mesti dibuang selepas dipakai",
+        "hanya boleh digunakan sekali",
+        "perlu diganti setiap hari",
+        "boleh dipakai lagi selepas penggunaan sebelumnya"
+      ],
+      "answer": 3,
+      "why": "Bekas itu boleh dipakai lagi. Petikan menyatakan bekas pinjaman perlu dibasuh dan dipulangkan."
+    },
+    {
+      "topic": "Pemahaman",
+      "stem": "Mengapakah sudut pinjaman bekas diwujudkan?",
+      "options": [
+        "Untuk menjual bekas kepada guru",
+        "Untuk membantu murid yang terlupa membawa bekas",
+        "Untuk menyimpan semua botol pengawas",
+        "Untuk menggantikan kantin sekolah"
+      ],
+      "answer": 1,
+      "why": "Sudut pinjaman ialah penyelesaian kepada masalah sebilangan murid yang terlupa membawa bekas."
+    },
+    {
+      "topic": "Pemahaman",
+      "stem": "Apakah tindakan tambahan yang paling sesuai untuk membantu murid mengingati bekas makanan?",
+      "options": [
+        "Menghentikan program pada minggu berikutnya",
+        "Mewajibkan murid membeli bekas baharu setiap hari",
+        "Menyediakan bekas dalam beg sekolah pada malam sebelumnya",
+        "Melarang semua murid membeli makanan di kantin"
+      ],
+      "answer": 2,
+      "why": "Menyediakan bekas lebih awal membantu mengelakkan kecuaian. Tindakan ini selaras dengan tujuan program."
+    }
+  ]
+}
